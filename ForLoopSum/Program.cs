@@ -10,4 +10,4 @@ for (int i = 1; i < 4; i++) //i-- = i - 1
 }
 
 
-//Console.WriteLine($"Final total {sum}");
+Console.WriteLine($"Final total {sum}");
